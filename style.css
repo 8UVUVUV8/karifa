@@ -1,0 +1,32 @@
+body{
+    background-image: url('https://st4.depositphotos.com/14830290/21892/v/600/depositphotos_218924420-stock-illustration-christmas-icon-wrapping-pattern-paper.jpg');
+}
+
+.containerGombok{
+    margin: 0 auto;
+    width:fit-content;
+    padding: 20px;
+    background-color: antiquewhite;
+}
+
+.input{
+    margin: 0 auto;
+    width:fit-content;
+    padding: 10px;
+}
+#meret{
+    max-width: 40px;
+}
+
+.mehet{
+    margin: 10px;
+}
+.karácsonyfa{
+
+}
+
+#divA{
+    margin: 0 auto;
+    width: fit-content;
+    padding: 30px;
+}
